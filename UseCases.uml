@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>PHP</ID>
+  <OriginalElement>\User</OriginalElement>
+  <nodes>
+    <node x="-309.08998732572877" y="340.2433460076046">\Cocktail</node>
+    <node x="-263.37389100126734" y="150.4651457541192">\CocktailsController</node>
+    <node x="854.6920152091255" y="-15.149556400506981">\Role</node>
+    <node x="65.0" y="0.0">\Picture</node>
+    <node x="782.2027883396705" y="200.37642585551328">\Unit</node>
+    <node x="768.343472750317" y="463.9480354879595">\Ingredient</node>
+    <node x="463.23193916349817" y="463.5449936628644">\IngredientCombination</node>
+    <node x="451.0" y="0.0">\User</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.5786191536748331" x="628.9606390461561" y="560.4571955294388" />
+  <SelectedNodes>
+    <node>\Cocktail</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constants</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
